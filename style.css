@@ -1,9 +1,9 @@
 body{
-    background: red;
+    background: rgb(206, 189, 189);
 }
 
 p {
-font-size: 50px;
-background: #00FF00;
+font-size: 20px;
+background: #c8d6c8;
 
 }
